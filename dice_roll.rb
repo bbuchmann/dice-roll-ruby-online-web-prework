@@ -2,6 +2,6 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-def roll = rand + 4
+def roll = rand 2
   rand ("4")
 end
